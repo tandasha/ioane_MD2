@@ -1,0 +1,7 @@
+#Fri Dec 27 00:57:57 GET 2019
+base.0=C\:\\Users\\qetiq\\GAU\\4-1\\Android\\Works\\IoaneTandashvili_Midterm_2\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\qetiq\\GAU\\4-1\\Android\\Works\\IoaneTandashvili_Midterm_2\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
